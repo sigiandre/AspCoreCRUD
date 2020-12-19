@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7BA08FA2-A47F-40A0-ACE1-799E33A9E8D3}|Default">
+  <MonoDevelop.Ide.ItemProperties.AspCoreCRUD PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspCoreCRUD" expanded="True">
+            <Node name="AspCoreCRUD" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
